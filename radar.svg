@@ -88,7 +88,7 @@
 
     <rect x="0" y="140" width="220" height="40" fill="none" stroke="#1e4b85" stroke-width="1"/>
     <text x="10" y="156" class="hud-text">VFO A: <tspan class="hud-accent">14.280.00 MHz</tspan></text>
-    <text x="10" y="172" class="hud-text">VFO B: <tspan class="hud-accent"> 7.030.00 MHz</tspan></text>
+    <text x="10" y="172" class="hud-text">VFO B: <tspan class="hud-accent"> 7.164.00 MHz</tspan></text>
   </g>
 
   <g transform="translate(0, 0)">
@@ -133,12 +133,11 @@
       <text x="-5" y="45" fill="#00ffff" font-family="'Courier New', monospace" font-size="12" text-anchor="end" letter-spacing="2" opacity="0.8">LISTENING TO THE UNIVERSE</text>
     </g>
 
-    <text x="0" y="110" class="hud-text" font-size="10" opacity="0.6" letter-spacing="1">
-      <tspan x="0" dy="0">SYS: ONLINE</tspan>
+    <text x="0" y="140" class="hud-text" font-size="10" opacity="0.6" letter-spacing="1">
+      <tspan x="0" dy="0">SYS: QRV</tspan>
       <tspan x="0" dy="15">PWR: 5W QRP</tspan>
       <tspan x="0" dy="15">ANT: 3M VERT</tspan>
-      <tspan x="0" dy="15">LOC: KN12FQ</tspan>
-      <tspan x="0" dy="15">SFI: MONITORING</tspan>
+      <tspan x="0" dy="15">LOC: KN12PQ</tspan>
     </text>
   </g>
 
