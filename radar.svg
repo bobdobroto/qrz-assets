@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
   <style>
     @keyframes sweep { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
     .radar-line { stroke: #3399ff; stroke-width: 2; transform-origin: 100px 100px; animation: sweep 4s infinite linear; }
@@ -9,9 +9,6 @@
   <circle cx="100" cy="100" r="50" class="ring"/>
   <circle cx="100" cy="100" r="20" class="ring"/>
   <line x1="100" y1="100" x2="100" y2="20" class="radar-line"/>
-  <text x="220" y="95" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="4">LZ1BO</text>
-  <text x="220" y="125" fill="#3399ff" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">DEEP SPACE HF STATION</text>
-  <circle cx="650" cy="60" r="2" fill="#ffffff" opacity="0.5"/>
-  <circle cx="720" cy="140" r="3" fill="#ffffff" opacity="0.3"/>
-  <circle cx="580" cy="160" r="1.5" fill="#ffffff" opacity="0.7"/>
+  <circle cx="180" cy="40" r="2" fill="#ffffff" opacity="0.5"/>
+  <circle cx="160" cy="160" r="1.5" fill="#ffffff" opacity="0.7"/>
 </svg>
